@@ -1,0 +1,20 @@
+{
+    "nome": "LED",
+    "version": "1.0.0",
+    "description": "Biblioteca para contrele nao bloqueante de LED com suporte a ligar, desligar, alternar, temporizaçao e piscadas.",
+    "keywords": [
+        "led",
+        "arduino",
+        "esp32",
+        "non-blocking"
+    ],
+    "authors": [
+        {
+            "nome": "Gabriel Bocchino Cerqueira"
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*",
+    "headers": "LED.h"
+}
