@@ -21,10 +21,10 @@ Com isso, a função `update()` deve ser chamado dentro do `loop()`.
 
 ```text
 Led/
-├── library.json
-├── README.md
-├── license
+├── examples/
 ├── src/
 │    ├─ LED.cpp
 │    └─ LED.h
-└── examples/
+├── README.md
+├── library.json
+└── license
